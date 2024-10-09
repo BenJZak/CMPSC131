@@ -1,4 +1,4 @@
-#Ahkil and Ben
+#Sridatha Akhil. V and Ben Zakielarz
 
 import math
 
